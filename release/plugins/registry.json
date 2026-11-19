@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "namespace": "allx-plugins",
+  "generatedAt": "2026-11-19T01:21:31.651Z",
+  "plugins": [
+    {
+      "id": "youji",
+      "name": "幽记 · 地方怪谈影视工坊",
+      "shortName": "幽记",
+      "version": "1.4.60",
+      "category": "影视长短片工坊",
+      "description": "地方志怪与民俗悬疑短片全链路导演工作台：天涯档案采录、四幕小说与剧本改写、分镜出图、多角色方言评书配音与剪映专业版五轨草稿一键直推。",
+      "filename": "youji-studio.allxpkg",
+      "downloadUrl": "./youji-studio.allxpkg",
+      "sigUrl": "./youji-studio.allxpkg.sig",
+      "entryModule": "@youji/plugin-projects",
+      "clientModule": "@youji/plugin-studio/client",
+      "modules": [
+        "@youji/plugin-studio",
+        "@youji/plugin-projects",
+        "@youji/plugin-media",
+        "@youji/plugin-jianying",
+        "@youji/plugin-wechat"
+      ],
+      "fileCount": 26,
+      "uncompressedBytes": 33112356,
+      "packageBytes": 5968525,
+      "packageSha256": "6d766eb288c235b9aae518c40f740ba842e492fa6fa98119dec3aee8dec36fb2",
+      "payloadSha256": "8d130512cd3863c691c9bd9ffe9cf685fe7aab2d7526edefb5eb49cf96680b53",
+      "updatedAt": "2026-11-19T01:21:27.399Z"
+    },
+    {
+      "id": "muse",
+      "name": "Muse · 小红书图文与视觉工坊",
+      "shortName": "Muse",
+      "version": "1.4.12",
+      "category": "图文种草工坊",
+      "description": "小红书爆款图文与人设视觉工作台：档案人物一致性锁脸、日常照、穿搭模仿、作品库与平台合规种草文案一键生成。",
+      "filename": "youji-muse.allxpkg",
+      "downloadUrl": "./youji-muse.allxpkg",
+      "sigUrl": "./youji-muse.allxpkg.sig",
+      "entryModule": "@youji/plugin-muse",
+      "clientModule": "@youji/plugin-muse/client",
+      "modules": [
+        "@youji/plugin-muse"
+      ],
+      "fileCount": 11,
+      "uncompressedBytes": 17647889,
+      "packageBytes": 3366529,
+      "packageSha256": "db1cc287cf37dd3cc261353751a0cf94a83b496b1235d9fdf63f1741d69175f6",
+      "payloadSha256": "326f5dd4786e19de1e6cd7306be91bb126a8e73271ae518729d2c603028d3cb8",
+      "updatedAt": "2026-11-19T01:21:28.486Z"
+    },
+    {
+      "id": "rebirth",
+      "name": "重生 · 工业级视频处理工作台",
+      "shortName": "重生",
+      "version": "1.0.22",
+      "category": "视频剪辑与去重",
+      "description": "本机 FFmpeg 硬件加速视频工作台：多平台采集视频查询、裂变去重、智能模糊/裁切比例转换、自由精准裁剪、多商品矩阵混剪与 AI 短视频复刻。",
+      "filename": "youji-rebirth.allxpkg",
+      "downloadUrl": "./youji-rebirth.allxpkg",
+      "sigUrl": "./youji-rebirth.allxpkg.sig",
+      "entryModule": "@youji/plugin-rebirth",
+      "clientModule": "@youji/plugin-rebirth/client",
+      "modules": [
+        "@youji/plugin-rebirth"
+      ],
+      "fileCount": 17,
+      "uncompressedBytes": 17568048,
+      "packageBytes": 6025329,
+      "packageSha256": "3b3ec51b82a90f8e1d50396d24b08831525b8bf155e6f8596d5d0335da0f5c9b",
+      "payloadSha256": "ed5f8392da3e033462a2d112488c1b0df703b076c1c826f8896c5a697cf39c6a",
+      "updatedAt": "2026-11-19T01:21:29.411Z"
+    },
+    {
+      "id": "boomshow",
+      "name": "BoomShow · 电商爆款短视频工坊",
+      "shortName": "BoomShow",
+      "version": "1.0.20",
+      "category": "电商带货视频",
+      "description": "AI 电商短视频创作工坊：带货视频生成、爆款脚本拆解复刻、短剧带货、商品口播合成与剪映草稿一键直推。",
+      "filename": "youji-boomshow.allxpkg",
+      "downloadUrl": "./youji-boomshow.allxpkg",
+      "sigUrl": "./youji-boomshow.allxpkg.sig",
+      "entryModule": "@youji/plugin-boomshow",
+      "clientModule": "@youji/plugin-boomshow/client",
+      "modules": [
+        "@youji/plugin-boomshow"
+      ],
+      "fileCount": 28,
+      "uncompressedBytes": 25171505,
+      "packageBytes": 9200263,
+      "packageSha256": "62506d053d58419584e551bbf9ba7501f2f7bce98bfba43eee08139beb500409",
+      "payloadSha256": "11a0b81ff915f465628a5c1f3461e0b40f27ba683826c90f668f643716a5a5a5",
+      "updatedAt": "2026-11-19T01:21:30.729Z"
+    },
+    {
+      "id": "pod",
+      "name": "POD造物 · 柔性定制与按需印花工坊",
+      "shortName": "POD造物",
+      "version": "1.0.20",
+      "category": "跨境与电商POD",
+      "description": "AI 柔性定制与按需印花全链路工坊：AI 印花图案裂变、真实褶皱光影样机合成、300DPI 生产刀版导出与 1 对 N 矩阵套版铺货。",
+      "filename": "youji-pod.allxpkg",
+      "downloadUrl": "./youji-pod.allxpkg",
+      "sigUrl": "./youji-pod.allxpkg.sig",
+      "entryModule": "@youji/plugin-pod",
+      "clientModule": "@youji/plugin-pod/client",
+      "modules": [
+        "@youji/plugin-pod"
+      ],
+      "fileCount": 18,
+      "uncompressedBytes": 11065607,
+      "packageBytes": 2848736,
+      "packageSha256": "41d32de08b4263450cdfe40203217a8b55a79613d2c1ca890f27890ed4e00f35",
+      "payloadSha256": "bfaacfe0121645b43cd201944b01fb9b17605b523adfb78f8bc532836d369489",
+      "updatedAt": "2026-11-19T01:21:31.480Z"
+    }
+  ]
+}
