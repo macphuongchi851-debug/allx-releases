@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "version": "0.9.295",
   "minShellVersion": "0.9.295",
-  "publishedAt": "2026-11-19T18:08:55.199Z",
+  "publishedAt": "2026-11-20T06:47:19.024Z",
   "critical": false,
   "releaseNotes": "v0.9.295: 全软件深度红队巡检与全插件大模型统一强对齐发布，上线全新「青史」历史短视频工坊，全量升级幽记/Muse/爆秀/POD/重生全部工坊插件，修复并发锁/热更新/认证/浏览器/RPA/MCP安全与稳定性缺陷，重打BLA加固Mac双架构(arm64+x64)与Windows EXE全量安装包",
   "hot": {
@@ -96,16 +96,16 @@
       "signature": "f0rdU2D3Hbngw2k3DsgUvuEfxtvn5k48ziNzK0fgOli0jGbHvzasqar+/wul2BY9sVSsPuzhOQaEUhSPFsg4DA=="
     },
     "qingshi": {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "packages": [
         "@youji/plugin-qingshi"
       ],
       "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg",
       "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg.sig",
-      "sha256": "b47da0224982d85b60064566ae1753c6819836657daf1b286ab77bcf8e148b38",
-      "bytes": 2672437,
-      "signature": "DdX3O9RR+uLYI9z4kJhy9iI19ba1usc0GvFf+GcQxVLTJ+XNl+uLP+yp3U7koHIm4XHuHKzjCrbwp+5TqGz+Cw=="
+      "sha256": "5de563df0feceff24270cb6221fabe480526d5d79e7585202864a05fd671148f",
+      "bytes": 2965748,
+      "signature": "hjCN40XItvFN8PkTBHZ20fIJf7XCzyZMA24vuGxbpg+uuITRabFh7+aitZP6Jg6qvjCiPujS/6dti5UlvpXqCw=="
     }
   },
-  "signature": "koRI6CrSEVaa8ogjtRbVjTZ77fsTzTI2eawGW/YgUIsGapXI8HYt3np8PNBaF3B8M1wXS7pKkhOrAB7HMMrRDQ=="
+  "signature": "myBvv88mysFFacLJ9VHfxDIHIC3qPnXs27BBUX0uxcoxYKDK9LZDC0S8WWvkRw+cdQMx1ydc4vjW+khjYNmSBA=="
 }
