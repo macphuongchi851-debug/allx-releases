@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.295",
+  "version": "0.9.297",
   "minShellVersion": "0.9.295",
-  "publishedAt": "2026-11-20T06:47:19.024Z",
+  "publishedAt": "2026-11-20T11:03:14.129Z",
   "critical": false,
-  "releaseNotes": "v0.9.295: 全软件深度红队巡检与全插件大模型统一强对齐发布，上线全新「青史」历史短视频工坊，全量升级幽记/Muse/爆秀/POD/重生全部工坊插件，修复并发锁/热更新/认证/浏览器/RPA/MCP安全与稳定性缺陷，重打BLA加固Mac双架构(arm64+x64)与Windows EXE全量安装包",
+  "releaseNotes": "青史 1.0.3：侧栏改为细线卷轴，修复插件列表重复显示工作台入口，并显示实际安装版本。旧版用户首次使用侧栏「热更」，以后可从插件市场更新；未安装青史不会自动安装。",
   "hot": {
-    "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/hot/allx-hot-v0.9.295.allxhot",
-    "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/hot/allx-hot-v0.9.295.allxhot.sig",
-    "sha256": "953b53dba7cd2fcdf0fb0c6e6eb7126753e43629ea9c10b55e9bd9fb040b7a4a",
-    "bytes": 8556810,
-    "signature": "UDifgiX0MSB5B50k2POQ5WZfcaE8qOL0Cs6VZt3XXD6ozcz4scrMeTa/IIf8ooyf9+aKnrwiKjdhwxzsEWhqCQ=="
+    "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/hot/allx-hot-v0.9.297.allxhot",
+    "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/hot/allx-hot-v0.9.297.allxhot.sig",
+    "sha256": "20b68d57d9d86730a57902a1c8e49a10934f5b200dd3355639590a6a8259fb87",
+    "bytes": 259160,
+    "signature": "NTfsbmk6rw+tC3f52ScNahli6K053M74QzsMM4JI+dAfqbMfTN1gXxREpineratE6+K5Ryc3RqRIj+fHUOfZDg=="
   },
   "shells": {
     "darwin-arm64": {
@@ -96,16 +96,16 @@
       "signature": "f0rdU2D3Hbngw2k3DsgUvuEfxtvn5k48ziNzK0fgOli0jGbHvzasqar+/wul2BY9sVSsPuzhOQaEUhSPFsg4DA=="
     },
     "qingshi": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "packages": [
         "@youji/plugin-qingshi"
       ],
       "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg",
       "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg.sig",
-      "sha256": "5de563df0feceff24270cb6221fabe480526d5d79e7585202864a05fd671148f",
-      "bytes": 2965748,
-      "signature": "hjCN40XItvFN8PkTBHZ20fIJf7XCzyZMA24vuGxbpg+uuITRabFh7+aitZP6Jg6qvjCiPujS/6dti5UlvpXqCw=="
+      "sha256": "f765cd8b3ed566a09b531c744241c552087eda9feb8a82611562ec43ba545f72",
+      "bytes": 2967872,
+      "signature": "RE1qQ2J+EyTKTJiNYJ6kzBf46pS9m4Wd1WpdVZ2O2SXgE9f4eyWif5M5ND4oGHkD02z6Wxc4DmbKxePTek2OBw=="
     }
   },
-  "signature": "myBvv88mysFFacLJ9VHfxDIHIC3qPnXs27BBUX0uxcoxYKDK9LZDC0S8WWvkRw+cdQMx1ydc4vjW+khjYNmSBA=="
+  "signature": "sEiwvRSWzAHmMHQWLLoRbdRE2MAiTNSO6csVnth92WenNsBL5pT2Pjj1/HFJktBnJeZxLI761y9BA+D2HiqFDQ=="
 }

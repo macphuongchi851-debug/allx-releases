@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "namespace": "allx-plugins",
-  "generatedAt": "2026-11-20T06:47:19.024Z",
+  "generatedAt": "2026-11-20T11:03:14.079Z",
   "plugins": [
     {
       "id": "youji",
@@ -165,7 +165,7 @@
       "id": "qingshi",
       "name": "青史 · 历史叙事短视频工坊",
       "shortName": "青史",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "category": "影视长短片工坊",
       "icon": "📜",
       "tags": [
@@ -197,11 +197,11 @@
         "@youji/plugin-qingshi"
       ],
       "fileCount": 11,
-      "uncompressedBytes": 17727578,
-      "packageBytes": 2965748,
-      "packageSha256": "5de563df0feceff24270cb6221fabe480526d5d79e7585202864a05fd671148f",
-      "payloadSha256": "42482116d32b02a682ff674a81ce49a784ca3e4f124ab67c0591070d4ccd7ea0",
-      "updatedAt": "2026-11-20T06:47:19.024Z"
+      "uncompressedBytes": 17734883,
+      "packageBytes": 2967872,
+      "packageSha256": "f765cd8b3ed566a09b531c744241c552087eda9feb8a82611562ec43ba545f72",
+      "payloadSha256": "2d41a7706e523d3626be2308a124246f2cc986c2cd064887a24fa7f78d7bb855",
+      "updatedAt": "2026-11-20T11:03:14.079Z"
     }
   ]
 }
