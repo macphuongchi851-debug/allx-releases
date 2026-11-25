@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "namespace": "allx-plugins",
+  "generatedAt": "2026-11-25T11:08:18.153Z",
+  "plugins": [
+    {
+      "id": "youji",
+      "name": "幽记 · 地方怪谈影视工坊",
+      "shortName": "幽记",
+      "version": "1.4.70",
+      "category": "影视长短片工坊",
+      "description": "地方志怪与民俗悬疑短片全链路导演工作台：天涯档案采录、四幕小说与剧本改写、分镜出图、多角色方言评书配音与剪映专业版五轨草稿一键直推。",
+      "filename": "youji-studio.allxpkg",
+      "packageName": "youji-studio.allxpkg",
+      "downloadUrl": "./youji-studio.allxpkg",
+      "sigUrl": "./youji-studio.allxpkg.sig",
+      "entryModule": "@youji/plugin-projects",
+      "clientModule": "@youji/plugin-studio/client",
+      "clientEntryModule": "@youji/plugin-studio",
+      "serverModules": [
+        "@youji/plugin-studio",
+        "@youji/plugin-projects",
+        "@youji/plugin-media",
+        "@youji/plugin-jianying",
+        "@youji/plugin-wechat"
+      ],
+      "routePrefixes": [
+        "/api/youji",
+        "/api/allx/rsi",
+        "/api/allx/folklore/search",
+        "/media"
+      ],
+      "modules": [
+        "@youji/plugin-studio",
+        "@youji/plugin-projects",
+        "@youji/plugin-media",
+        "@youji/plugin-jianying",
+        "@youji/plugin-wechat"
+      ],
+      "fileCount": 46,
+      "uncompressedBytes": 48393395,
+      "packageBytes": 7667973,
+      "packageSha256": "f5f5ac70b3154f47d60f419fd63ab55e494fce1a0e4f2439b3f1898e319a996c",
+      "payloadSha256": "ee7ebac3a56a3ca9092ee991e681b223a60b72bd5ed6f6875dcad048a6a6bccc",
+      "updatedAt": "2026-11-25T11:08:11.049Z"
+    },
+    {
+      "id": "muse",
+      "name": "Muse · 小红书图文与视觉工坊",
+      "shortName": "Muse",
+      "version": "1.4.20",
+      "category": "图文种草工坊",
+      "description": "小红书爆款图文与人设视觉工作台：档案人物一致性锁脸、日常照、穿搭模仿、作品库与平台合规种草文案一键生成。",
+      "filename": "youji-muse.allxpkg",
+      "packageName": "youji-muse.allxpkg",
+      "downloadUrl": "./youji-muse.allxpkg",
+      "sigUrl": "./youji-muse.allxpkg.sig",
+      "entryModule": "@youji/plugin-muse",
+      "clientModule": "@youji/plugin-muse/client",
+      "clientEntryModule": "@youji/plugin-muse",
+      "serverModules": [
+        "@youji/plugin-muse"
+      ],
+      "routePrefixes": [
+        "/api/muse"
+      ],
+      "modules": [
+        "@youji/plugin-muse"
+      ],
+      "fileCount": 11,
+      "uncompressedBytes": 9127370,
+      "packageBytes": 1877617,
+      "packageSha256": "3ab950f119880267e2b6a259d1887fc2df73751a07651a7b222554fc5d7c8cfc",
+      "payloadSha256": "48f9a5111cc27916c60e4f3788bb94f4d93c2c9e0924c11fef2bc9b9a9d6d49f",
+      "updatedAt": "2026-11-25T11:08:12.391Z"
+    },
+    {
+      "id": "rebirth",
+      "name": "重生 · 工业级视频处理工作台",
+      "shortName": "重生",
+      "version": "1.0.31",
+      "category": "视频剪辑与去重",
+      "description": "本机 FFmpeg 硬件加速视频工作台：多平台采集视频查询、裂变去重、智能模糊/裁切比例转换、自由精准裁剪、多商品矩阵混剪与 AI 短视频复刻。",
+      "filename": "youji-rebirth.allxpkg",
+      "packageName": "youji-rebirth.allxpkg",
+      "downloadUrl": "./youji-rebirth.allxpkg",
+      "sigUrl": "./youji-rebirth.allxpkg.sig",
+      "entryModule": "@youji/plugin-rebirth",
+      "clientModule": "@youji/plugin-rebirth/client",
+      "clientEntryModule": "@youji/plugin-rebirth",
+      "serverModules": [
+        "@youji/plugin-rebirth"
+      ],
+      "routePrefixes": [
+        "/api/rebirth"
+      ],
+      "modules": [
+        "@youji/plugin-rebirth"
+      ],
+      "fileCount": 17,
+      "uncompressedBytes": 14564918,
+      "packageBytes": 5426585,
+      "packageSha256": "ef26226028c8474376ed81186ef0044c0142d2068eb9a3dd4897585801cfc8ba",
+      "payloadSha256": "c918924aa6c8468eb176fb6cbdf5810668e7264bb8765ad906db7759c5a2de82",
+      "updatedAt": "2026-11-25T11:08:13.243Z"
+    },
+    {
+      "id": "boomshow",
+      "name": "BoomShow · 电商爆款短视频工坊",
+      "shortName": "BoomShow",
+      "version": "1.0.29",
+      "category": "电商带货视频",
+      "description": "AI 电商短视频创作工坊：带货视频生成、爆款脚本拆解复刻、短剧带货、商品口播合成与剪映草稿一键直推。",
+      "filename": "youji-boomshow.allxpkg",
+      "packageName": "youji-boomshow.allxpkg",
+      "downloadUrl": "./youji-boomshow.allxpkg",
+      "sigUrl": "./youji-boomshow.allxpkg.sig",
+      "entryModule": "@youji/plugin-boomshow",
+      "clientModule": "@youji/plugin-boomshow/client",
+      "clientEntryModule": "@youji/plugin-boomshow",
+      "serverModules": [
+        "@youji/plugin-boomshow"
+      ],
+      "routePrefixes": [
+        "/api/boomshow"
+      ],
+      "modules": [
+        "@youji/plugin-boomshow"
+      ],
+      "fileCount": 33,
+      "uncompressedBytes": 31454454,
+      "packageBytes": 9733866,
+      "packageSha256": "1007a65bb1158d6e37baf2b44074a99b87a21df2a9bd5e27cc982ef3522253b5",
+      "payloadSha256": "13522616823fdec4755903cfabe9cf7d491b77d31d8aa401296f537829d385eb",
+      "updatedAt": "2026-11-25T11:08:15.269Z"
+    },
+    {
+      "id": "pod",
+      "name": "POD造物 · 柔性定制与按需印花工坊",
+      "shortName": "POD造物",
+      "version": "1.0.28",
+      "category": "跨境与电商POD",
+      "description": "AI 柔性定制与按需印花全链路工坊：AI 印花图案裂变、真实褶皱光影样机合成、300DPI 生产刀版导出与 1 对 N 矩阵套版铺货。",
+      "filename": "youji-pod.allxpkg",
+      "packageName": "youji-pod.allxpkg",
+      "downloadUrl": "./youji-pod.allxpkg",
+      "sigUrl": "./youji-pod.allxpkg.sig",
+      "entryModule": "@youji/plugin-pod",
+      "clientModule": "@youji/plugin-pod/client",
+      "clientEntryModule": "@youji/plugin-pod",
+      "serverModules": [
+        "@youji/plugin-pod"
+      ],
+      "routePrefixes": [
+        "/api/pod"
+      ],
+      "modules": [
+        "@youji/plugin-pod"
+      ],
+      "fileCount": 18,
+      "uncompressedBytes": 7363537,
+      "packageBytes": 2223640,
+      "packageSha256": "4ef5763ed97e945de967e000aa8887c86b73f0d021ffeacf5c96518bd564af63",
+      "payloadSha256": "a698e3523219adbae84a083fea4884c58c08699505e6c5a66a5650448e27f183",
+      "updatedAt": "2026-11-25T11:08:16.181Z"
+    },
+    {
+      "id": "qingshi",
+      "name": "青史 · 历史叙事短视频工坊",
+      "shortName": "青史",
+      "version": "1.0.9",
+      "category": "影视长短片工坊",
+      "icon": "📜",
+      "tags": [
+        "史海选题",
+        "四幕博弈",
+        "防穿帮考据",
+        "剪映9轨直推"
+      ],
+      "theme": {
+        "bg": "linear-gradient(135deg, rgba(217, 119, 6, 0.24) 0%, rgba(180, 83, 9, 0.30) 100%)",
+        "border": "rgba(217, 119, 6, 0.45)",
+        "icon": "📜"
+      },
+      "description": "历史叙事短视频全链路导演工作台：200+ 历史博弈切片与无痕洗稿、四幕小说（谥号/器物防穿帮考据）、5 大黄金钩子剧本、朝代服化道锁与态势地图分镜、评书双轨配音与剪映多轨草稿一键直推。",
+      "filename": "youji-qingshi.allxpkg",
+      "packageName": "youji-qingshi.allxpkg",
+      "downloadUrl": "./youji-qingshi.allxpkg",
+      "sigUrl": "./youji-qingshi.allxpkg.sig",
+      "entryModule": "@youji/plugin-qingshi",
+      "clientModule": "@youji/plugin-qingshi/client",
+      "clientEntryModule": "@youji/plugin-qingshi",
+      "serverModules": [
+        "@youji/plugin-qingshi"
+      ],
+      "routePrefixes": [
+        "/api/qingshi"
+      ],
+      "modules": [
+        "@youji/plugin-qingshi"
+      ],
+      "fileCount": 31,
+      "uncompressedBytes": 24168208,
+      "packageBytes": 3758633,
+      "packageSha256": "109064941d5003495639cddfe648d45c68954b9feb95b9718e35be17e0155d58",
+      "payloadSha256": "616c5c60fe5827d0c57ebe707e83228f53003027dfafb79a14487b73dd025a7f",
+      "updatedAt": "2026-11-25T11:08:17.552Z"
+    }
+  ]
+}
