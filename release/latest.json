@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "version": "0.9.304",
+  "minShellVersion": "0.9.304",
+  "publishedAt": "2026-11-25T01:54:06.469Z",
+  "critical": false,
+  "releaseNotes": "v0.9.304 全量稳定性与体验升级：修复多模态截图与上下文提醒、macOS全应用识别与启动、工作区新建交互优化，取消首次登录免费模型引导，默认直用官方模型，并完成全软件深度稳定性与安全加固。",
+  "hot": {
+    "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/hot/allx-hot-v0.9.304.allxhot",
+    "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/hot/allx-hot-v0.9.304.allxhot.sig",
+    "sha256": "fb696a133c9b4223bdb99bdc71a66c303a8dc419209c4cae1e95e3abf2f31ed0",
+    "bytes": 8513204,
+    "signature": "YFxt0EPxK0kFUy4eKxtOpjBtUloRtbHH0AydV7L36Gr7RTOUP2tDunOTwZdwPMJPsu4SQFJQO/Iu+XbhOwCOAQ=="
+  },
+  "shells": {
+    "darwin-arm64": {
+      "shellVersion": "0.9.304",
+      "url": "https://github.com/macphuongchi851-debug/allx-releases/releases/download/v0.9.304/allx-v0.9.304-mac-arm64.zip",
+      "sigUrl": "https://github.com/macphuongchi851-debug/allx-releases/releases/download/v0.9.304/allx-v0.9.304-mac-arm64.zip.sig",
+      "sha256": "941d31ce2a858fa151ff76abfa74095a6bd7c80ce447e0a22af44e8612021414",
+      "sha256Signature": "CBApwJJ7B4tSCbOWmBp7H7y5N34v43uQq0bm9173vXZW4yD68uMragfR+vDKOJzPXG86wJkLrthw1P9AdiobDg==",
+      "bytes": 488921186,
+      "signature": "5lysxfZGjA9ZOsUEGxHxCHGzpyYHWDL9Wds3knq1MxMBgAqMbBd9uXBEIOfQ56MCUb7STkzYpu8HO9YJTxkdCw=="
+    },
+    "darwin-x64": {
+      "shellVersion": "0.9.304",
+      "url": "https://github.com/macphuongchi851-debug/allx-releases/releases/download/v0.9.304/allx-v0.9.304-mac-x64.zip",
+      "sigUrl": "https://github.com/macphuongchi851-debug/allx-releases/releases/download/v0.9.304/allx-v0.9.304-mac-x64.zip.sig",
+      "sha256": "96f8187b09e0bc684bb2a79de7e27f59bdc6f9cab9e2f2818ae7f3e45b856539",
+      "sha256Signature": "UUomg7R+R6/3o6cyGPNKd4PM6t0mnwATOnTCenZIlxuNz8b2497mPddS8zcxhamgk379WiaO6F3KB5IymWSBDw==",
+      "bytes": 511966967,
+      "signature": "z+tY7iJhAuOXO96M8EpT+aPWhBVUItRauuVuh1k3FNGh276FieQTJY+Ik8b2zkB/KU71D1bgGhQWosjaY/KkAg=="
+    },
+    "win32-x64": {
+      "shellVersion": "0.9.304",
+      "url": "https://github.com/macphuongchi851-debug/allx-releases/releases/download/v0.9.304/allx-v0.9.304-Windows-Setup.exe",
+      "sigUrl": "https://github.com/macphuongchi851-debug/allx-releases/releases/download/v0.9.304/allx-v0.9.304-Windows-Setup.exe.sig",
+      "sha256": "a8ca768f716b5387aa1f2ac9e2f15b424e941738a0684ade1b799104e189089e",
+      "sha256Signature": "sGncMZrxlolr71pCdoPKslmeAiTY2iUElE+8GWaz59bZcVvzpE2o8C1trH2VOVVK90t4sJBO6geNfPFWXRS+AQ==",
+      "bytes": 547546252,
+      "signature": "FbdFeUP2aBnbYhuQ09wmZl2TNqs80YMcbKtif1hLqiCPmd1kS8O6qvOdNIe9/7TvzQu192K24dlCVlMZhDfSCQ=="
+    }
+  },
+  "plugins": {
+    "youji": {
+      "version": "1.4.69",
+      "packages": [
+        "@youji/plugin-studio",
+        "@youji/plugin-projects",
+        "@youji/plugin-media",
+        "@youji/plugin-jianying",
+        "@youji/plugin-wechat"
+      ],
+      "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-studio.allxpkg",
+      "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-studio.allxpkg.sig",
+      "sha256": "830dd749357060096b6215473a3244d597d2382450031212d10432213f82a49e",
+      "payloadSha256": "0b27f31a751c4a86aa4d7c016a81f1737e3ffa66bca839fd248afe7821002e6a",
+      "bytes": 7645123,
+      "signature": "JYuoeM5n3sHvqYalAcgWhQFtol3nbCbbvb3SBWM3gXlxr0YjvBtAvarDduHKsdi7Z9zwnZeyu8XPgvowdeysBQ=="
+    },
+    "muse": {
+      "version": "1.4.20",
+      "packages": [
+        "@youji/plugin-muse"
+      ],
+      "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-muse.allxpkg",
+      "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-muse.allxpkg.sig",
+      "sha256": "b122488ce6d4574349698a64e14222e75586792f8160684a3e28ebfd226f2ccf",
+      "payloadSha256": "48f9a5111cc27916c60e4f3788bb94f4d93c2c9e0924c11fef2bc9b9a9d6d49f",
+      "bytes": 1877617,
+      "signature": "aUp7BiQjB/Z+yL3ny6T55ku/2ZQlGNyCsDK7eVcs++KkXXWHhzUKtR1Z+b61TsilHFhJ+/iWF1ChSzfZ5upWDA=="
+    },
+    "rebirth": {
+      "version": "1.0.30",
+      "packages": [
+        "@youji/plugin-rebirth"
+      ],
+      "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-rebirth.allxpkg",
+      "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-rebirth.allxpkg.sig",
+      "sha256": "c42be64f7d4179e9738e5b071626202a4c3435116d31bb73e3673fe6d636d25b",
+      "payloadSha256": "50e67961fa06a379a26ec9314b9d88afae3d2471d6a61ed76faa5e5a6fbb73ca",
+      "bytes": 5426022,
+      "signature": "eoZ78j5wh6ks9bpm2+S4bVPNTW17HjXuwyc+n58Pak/7jZ1gr4QXfW+ciS2WzZWymKs8TP7U4uX430wT1KX5Bg=="
+    },
+    "boomshow": {
+      "version": "1.0.28",
+      "packages": [
+        "@youji/plugin-boomshow"
+      ],
+      "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-boomshow.allxpkg",
+      "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-boomshow.allxpkg.sig",
+      "sha256": "aba84788704fdd360a036251dbc65ec5a418458bc9f93c1833828d5ef16bdfb0",
+      "payloadSha256": "ee823e5bd1f1e58ae766a9811279ad9afaa9578e7a11b6ba5e8fc21cb909d26d",
+      "bytes": 9730706,
+      "signature": "IJJ988t3dYU1QKEBuWWxpm+7dpk96m15gGgGvoEkIsCJjHi11zggHbWCM80hDq5CPF59fsg8HYt9DLhhjdLJCw=="
+    },
+    "pod": {
+      "version": "1.0.28",
+      "packages": [
+        "@youji/plugin-pod"
+      ],
+      "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-pod.allxpkg",
+      "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-pod.allxpkg.sig",
+      "sha256": "985b52c5116114017d273b57d481293c9bc0ddcb66cce7fef38141aec9b197a9",
+      "payloadSha256": "a698e3523219adbae84a083fea4884c58c08699505e6c5a66a5650448e27f183",
+      "bytes": 2223640,
+      "signature": "KW0ibgzjtOvBhqHZkiUKA2fmknror7QOKUprLRajB0n5RP36vz9l8WSZqV6WZwbUhDGpzC1rM0mb5p5uC44fAQ=="
+    },
+    "qingshi": {
+      "version": "1.0.8",
+      "packages": [
+        "@youji/plugin-qingshi"
+      ],
+      "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg",
+      "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg.sig",
+      "sha256": "d2f202cbb258cd0ab0f67ed099c02de313861e9e55eb9c8e5797d44c1daa6362",
+      "payloadSha256": "f39f078cc2dab2560dbcb989140cfd00b4db55294e3c785dee057e293fd9f292",
+      "bytes": 3758131,
+      "signature": "BSg5tJXMIHhhLZHs8N7f6r0woSWJb33+lGA/ubjl2ausWHEgKIqu0DHCMUrSioTiQMjQtPWNoygf4q+LXbesDg=="
+    }
+  },
+  "signature": "GbOFcBtJDJEalCS3BqBqw49fgxJyyFZbztL/he/Giv0IVb9opagjjGothdYwGIcSZItaZ9LaakEM5jxM+U4xDQ=="
+}
