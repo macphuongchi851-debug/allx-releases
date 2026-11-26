@@ -44,7 +44,7 @@
   },
   "plugins": {
     "youji": {
-      "version": "1.4.70",
+      "version": "1.4.71",
       "packages": [
         "@youji/plugin-studio",
         "@youji/plugin-projects",
@@ -54,10 +54,10 @@
       ],
       "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-studio.allxpkg",
       "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-studio.allxpkg.sig",
-      "sha256": "ba5a9ea34db399bba187451762c8070356ca4880b099be32628e9ef58fbe3d27",
-      "payloadSha256": "79175f762368b8b32ac37edefca79919936221bd96016836b1066e0e5c2a8be7",
-      "bytes": 2266762,
-      "signature": "zaZpcx3mTWE12BALX33A/cL7XtSe5LoLpaw6m6ta+3L1JaPhAZIlefw4zSKKuNJNOgsf2Rp9Z4pEwxcy+xI/Aw=="
+      "sha256": "cc1324b8e527cc5ec70c6249ef25688eb92310b63dc1b3dbbc08ff090aa732f5",
+      "payloadSha256": "8b60071b07e3c19c77f917c0e1637a703da9b804c92b8ba21b809ccf078a8dbb",
+      "bytes": 2268420,
+      "signature": "lcdr7fFZR2dF2C+Jo0R6gC1R639Y8/4kZrmxGhFs89n3o8YzAkwEY3ZfPqSny4LsykJqo4SxqW0NVoJTnlRXBA=="
     },
     "muse": {
       "version": "1.4.21",
@@ -120,5 +120,5 @@
       "signature": "t2Q0n4eBCHxAXwcWDvucLV1eLkDNHpfdaq+9oHxCl+2Mh/VaQ1oqgTl+ybPwVV8NZwFgmXJhSytHGdqYtJMSAA=="
     }
   },
-  "signature": "9efgH09uDpwkQZqK7TGI4RJtMakwGdU0rIFrpQ394hzxqlH/FVl6bh0QwdhzLxHqGbbY1tYqy379Y/4N85OfCw=="
+  "signature": "LF5u8sP0DsaboIUPUmGsD1kHH6lfPn0woHl6ueanFS5jmMXJ6Y3X0YXcFqyys6gcM36mSkkRXR1LPPdm1+yfDA=="
 }

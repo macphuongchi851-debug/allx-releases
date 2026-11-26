@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "namespace": "allx-plugins",
-  "generatedAt": "2026-11-26T07:48:17.159Z",
+  "generatedAt": "2026-11-26T10:42:15.777Z",
   "plugins": [
     {
       "id": "youji",
       "name": "幽记 · 地方怪谈影视工坊",
       "shortName": "幽记",
-      "version": "1.4.70",
+      "version": "1.4.71",
       "category": "影视长短片工坊",
       "description": "地方志怪与民俗悬疑短片全链路导演工作台：天涯档案采录、四幕小说与剧本改写、分镜出图、多角色方言评书配音与剪映专业版五轨草稿一键直推。",
       "filename": "youji-studio.allxpkg",
@@ -38,11 +38,11 @@
         "@youji/plugin-wechat"
       ],
       "fileCount": 46,
-      "uncompressedBytes": 10724151,
-      "packageBytes": 2266762,
-      "packageSha256": "ba5a9ea34db399bba187451762c8070356ca4880b099be32628e9ef58fbe3d27",
-      "payloadSha256": "79175f762368b8b32ac37edefca79919936221bd96016836b1066e0e5c2a8be7",
-      "updatedAt": "2026-11-26T07:48:13.492Z"
+      "uncompressedBytes": 10728589,
+      "packageBytes": 2268420,
+      "packageSha256": "cc1324b8e527cc5ec70c6249ef25688eb92310b63dc1b3dbbc08ff090aa732f5",
+      "payloadSha256": "8b60071b07e3c19c77f917c0e1637a703da9b804c92b8ba21b809ccf078a8dbb",
+      "updatedAt": "2026-11-26T10:42:08.742Z"
     },
     {
       "id": "muse",
