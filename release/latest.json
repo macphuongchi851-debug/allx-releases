@@ -108,17 +108,17 @@
       "signature": "3dA6qj+z7yfpt7SRMbEeq9YzuvCvfE2bnrxGbJTQI0YomDqpTcQaTP8Tmdmskq5b7uOY6l7pIndAHENTScVaDw=="
     },
     "qingshi": {
-      "version": "1.0.10",
+      "version": "1.0.11",
       "packages": [
         "@youji/plugin-qingshi"
       ],
       "url": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg",
       "sigUrl": "https://raw.githubusercontent.com/macphuongchi851-debug/allx-releases/main/release/plugins/youji-qingshi.allxpkg.sig",
-      "sha256": "fada9a8bda51673f8208ece9d7c239d966556a2e21f539ff3f37bb626a05e142",
-      "payloadSha256": "f9d157279d7df86a70d4108d75fe93495b6c1cd886bd8eeb8727feea328fefb8",
-      "bytes": 876771,
-      "signature": "t2Q0n4eBCHxAXwcWDvucLV1eLkDNHpfdaq+9oHxCl+2Mh/VaQ1oqgTl+ybPwVV8NZwFgmXJhSytHGdqYtJMSAA=="
+      "sha256": "d59fb4bf72a704b9e13c5349e7dc72d03cbd441750b2af5b9045f03d3b79dce1",
+      "payloadSha256": "3a27b8626c943fc67a339639ae9e06b5299e2a8c0004f5c91111078067b64e29",
+      "bytes": 884944,
+      "signature": "OOa/V28wsjZBbTuBCUth4eFbwhEAI8aqY1elNnNRsUbg9LzK9BYUmrDrVTQ9mi+QZwWfFL1h8hDLfXRxrk6vDQ=="
     }
   },
-  "signature": "LF5u8sP0DsaboIUPUmGsD1kHH6lfPn0woHl6ueanFS5jmMXJ6Y3X0YXcFqyys6gcM36mSkkRXR1LPPdm1+yfDA=="
+  "signature": "Dy6HPbVxzBa17f5jzj+8IkxR9f5TezRVUYPg/F2o6Hkbzss7c71odrULq3+FsjulbtLiHj49dUuo24b4ocY8Dw=="
 }
